@@ -1,1 +1,1 @@
-# amonguapi
+# Among Us API
